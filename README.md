@@ -1,5 +1,11 @@
-### Hi there 👋
+## Yahiro Nakamoto
 
+🌱I'm currently lerning 📱User Interface Design, ✨User Experience Research, ⚛️React, ▲Next.js, 💾Cloud Infrastructure Architecture.
+
+![Yahirrro's github stats](https://github-readme-stats.vercel.app/api?username=Yahirrro&theme=default&show_icons=true)
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/Yahimotto?style=social)](https://twitter.com/Yahimotto)
+![Discord](https://img.shields.io/static/v1?label=&message=yahiro%236230&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)
 <!--
 **Yahirrro/Yahirrro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
