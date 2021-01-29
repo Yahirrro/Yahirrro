@@ -1,6 +1,6 @@
 ## Yahiro Nakamoto
 
-🌱I'm currently lerning 📱User Interface Design, ✨User Experience Research, ⚛️React, ▲Next.js, 💾Cloud Infrastructure Architecture.
+🌱I'm currently lerning 📱User Interface Design, ✨User Experience Research, ⚛️React, ▲Next.js, 💾Serverless Architecture.
 
 ![Yahirrro's github stats](https://github-readme-stats.vercel.app/api?username=Yahirrro&theme=default&show_icons=true)
 
